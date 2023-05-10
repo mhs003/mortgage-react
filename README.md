@@ -18,3 +18,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 Builds the app for production to the `build` folder.\
 This will create an optimized version of your project.
 
+## Acknowledgement
+
+This project was for my practice only. You can copy the project or any code segment for practicing purpose.
